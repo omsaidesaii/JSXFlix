@@ -96,6 +96,7 @@ loadTrendingMovies()
       <div className='pattern' />
     <div className='wrapper'>
       <header>
+      <h1 className='text-center text-gradient mb-5'>JSX<span className='text-white'>Flix</span> </h1>
         <img src="/hero.png" alt="" />
         <h1>
           Find <span className='text-gradient'>Movies</span> you'll Enjoy Without the Hassle
